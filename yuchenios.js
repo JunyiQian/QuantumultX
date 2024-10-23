@@ -7,8 +7,7 @@
 2023.10.14 修复域名更换后签到失败的问题
 2024.01.07 修复重写获取ck无法触发的问题
 
-网站入口地址：https://yuchen.tonghuaios.com?tg=add3ea3f
-介意邀请码可以把后面的参数删掉
+网站入口地址：https://yc.yuchengyouxi.com
 使用方法：抓取yuchen.tonghuaios.com域名下签到的cookie填写到yuchenCookie，多账号用 @ 分隔
 脚本兼容：Surge、QuantumultX、Loon、Shadowrocket、Node.js
 只测试过loon和青龙，其它环境请自行尝试】
