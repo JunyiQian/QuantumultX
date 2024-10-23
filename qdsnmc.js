@@ -10,7 +10,7 @@ Loon:
 3.关闭获取ck脚本，避免产生不必要的mitm。
 
 [Script]
-http-request ^https:\/\/(webapi|qmwebapi)\.qmai\.cn\/web\/(catering|catering2-apiserver)\/crm\/points-info script-path=https://gist.githubusercontent.com/Sliverkiss/f1b7aa36b15506d6b6f895585b000fa2/raw/qdsnmc.js, timeout=10, tag=丘大叔柠檬茶获取token
+http-request ^https:\/\/(webapi|qmwebapi)\.qmai\.cn\/web\/(catering|catering2-apiserver)\/crm\/points-info script-path=https://raw.githubusercontent.com/JunyiQian/QuantumultX/Tasks/qdsnmc.js, timeout=10, tag=丘大叔柠檬茶获取token
 
 [MITM]
 hostname =qmwebapi.qmai.cn,webapi.qmai.cn
